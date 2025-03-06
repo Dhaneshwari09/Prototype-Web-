@@ -8,8 +8,8 @@ Prototype-Web is a collection of website prototypes designed to showcase clean, 
 - **MINISTRY-OF-LAW:** A professional website for law and constitution services.
 
 ## Technologies Used:
-- **HTML5:** For structuring web pages.
-- **CSS3:** For styling and creating an attractive, responsive design.
+- **HTML:** For structuring web pages.
+- **CSS:** For styling and creating an attractive, responsive design.
 
 ## How to Use:
 1. Clone the repository.
