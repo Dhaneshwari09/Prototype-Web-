@@ -9,11 +9,8 @@ Prototype-Web is a collection of website prototypes designed to showcase clean, 
 
 ## Technologies Used:
 - **HTML:** For structuring web pages.
-- **CSS:** For styling and creating an attractive, responsive design.
+- **CSS:** For enhancing visual appeal and ensuring a consistent layout.
 
 ## How to Use:
 1. Clone the repository.
 2. Open the respective HTML files in your browser to preview the designs.
-
-## Contribution:
-Feel free to contribute by suggesting improvements or adding new prototypes!
